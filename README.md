@@ -1,1 +1,1 @@
-2D platformer made with unity and C#. 
+2D platformer made with unity and C#. Made for practice. Unfinished
